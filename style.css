@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #8D99AE;
+    background-color: #F1E9DB;
   }
   .wrapper {
     width: 400px;
@@ -16,9 +16,9 @@
   }
   .container {
     width: 100%;
-    background-color: #2B2D42;
+    background-color: #035E7B;
     padding: 50px 40px;
-    box-shadow: 0 20px 65px #2B2D42;
+    box-shadow: 0 20px 65px #2b2d428b;
     position: relative;
     border-radius: 8px;
     text-align: center;
@@ -28,7 +28,7 @@
     position: absolute;
     width: 80%;
     height: 120%;
-    background-color: #EDF2F4;
+    background-color: #A39B8B;
     z-index: -1;
     top: -10%;
     left: 10%;
@@ -51,6 +51,6 @@
     border-radius: 5px;
     font-size: 18px;
     font-weight: 600;
-    color: #2B2D42;
+    color: #035E7B;
     cursor: pointer;
   }
